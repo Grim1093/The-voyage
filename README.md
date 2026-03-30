@@ -1,5 +1,6 @@
 # Master Architecture & Project Overview
 
+
 ## High-Level Summary
 Welcome to the core repository of our high-end, multi-tenant MICE (Meetings, Incentives, Conferences, and Exhibitions) platform. Operating as a Multi-Software as a Service (MSaaS), this platform is engineered to deliver unparalleled performance and visual fidelity for premium events.
 
